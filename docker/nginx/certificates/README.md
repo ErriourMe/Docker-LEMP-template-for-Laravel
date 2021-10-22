@@ -1,1 +1,1 @@
-В этой папке необходимо разместить сертификаты .key и .pem от Cloudflare (или других источников)
+You must supply certificates .key и .pem of Cloudflare (or another sources) here
